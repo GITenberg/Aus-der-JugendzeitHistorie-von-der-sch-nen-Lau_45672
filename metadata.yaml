@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Eduard_Mörike
     - http://de.wikipedia.org/wiki/Eduard_Mörike
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45672#Aus-der-JugendzeitHistorie-von-der-sch-nen-Lau
 gutenberg_issued: '2014-05-17'
 gutenberg_type: Text
 identifiers:
